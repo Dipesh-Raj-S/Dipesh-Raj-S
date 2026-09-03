@@ -1,6 +1,6 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dipesh%20Raj&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Application%20%26%20AI%20Security%20%7C%20CS%20%40%20VIT%20Chennai&descAlignY=58&descSize=17&animation=fadeIn"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dipesh%20Raj%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Application%20and%20AI%20Security%20%7C%20CS%20%40%20VIT%20Chennai&descAlignY=58&descSize=17&animation=fadeIn"/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=1100&lines=Building+scalable+%26+secure+backend+applications+with+Python%2C+FastAPI+%26+Flask;Exploring+DevOps+%26+Cloud+Technologies;Interested+in+Application+Security+%7C+AI+Security+%7C+Linux+Systems;Learning%2C+building+%26+breaking+things+to+understand+them+better)](https://git.io/typing-svg)
 
